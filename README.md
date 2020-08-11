@@ -2,7 +2,7 @@
 
 I’m currently working as a DevOps Enginner at Zeta India.  
 I’m currently diving deep into AWS, terraform, kubernetes, jenkins, and principles of devops.   
-I've oreviously worked on Deep Learning(Code-Mixed Language Model, ML for Source Code, etc.), High Performance and GPU Computing.    
+I've previously worked on Deep Learning(Code-Mixed Language Model, ML for Source Code, etc.), High Performance and GPU Computing.    
 You can reach me at my email sedflix@gmail.com or at my twiiter [@junk_flix](https://twitter.com/junk_flix). 
  
 <!--
