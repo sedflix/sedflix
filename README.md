@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m currently working as a DevOps Enginner at Zeta India.  
-I’m currently diving into kubernetes, jenkins, AWS, terraform, and principles of devops.    
+I’m currently diving into kubernetes and it's ecosystem, monitoring and principles of devops.    
 I've previously worked on Deep Learning(Code-Mixed Language Model, ML for Source Code, etc.), High Performance and GPU Computing.    
 You can reach me at my email sedflix@gmail.com or at my twiiter [@sedflix](https://twitter.com/sedflix). 
  
